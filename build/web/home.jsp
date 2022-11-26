@@ -55,7 +55,7 @@
                
 
               </div>
-              <a class="btn btn-danger" href="Logout" >Cerrar Sesion</a>
+              <a class="btn btn-danger" href="Logout2" >Cerrar Sesion</a>
 
 
           </nav>
